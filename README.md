@@ -1,2 +1,2 @@
-# hello-world
-Ideas
+#Gin
+Just starting out :)
